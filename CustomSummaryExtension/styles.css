@@ -1,0 +1,51 @@
+/* CustomSummary Extension Styles */
+
+.custom_summary_settings {
+    margin: 10px 0;
+}
+
+.custom_summary_settings_content {
+    padding: 10px;
+}
+
+.custom_summary_settings .form_group {
+    margin-bottom: 15px;
+}
+
+.custom_summary_settings label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+
+.custom_summary_settings .text_pole {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid var(--SmartThemeBorderColor);
+    border-radius: 4px;
+    background-color: var(--SmartThemeBodyColor);
+    color: var(--SmartThemeBodyTextColor);
+}
+
+.custom_summary_settings .text_pole:focus {
+    outline: none;
+    border-color: var(--SmartThemeLinkColor);
+}
+
+.custom_summary_settings small.muted {
+    display: block;
+    margin-top: 5px;
+    color: var(--SmartThemeBodyTextColor);
+    opacity: 0.7;
+    font-size: 0.9em;
+}
+
+#custom_summary_button {
+    margin: 5px;
+}
+
+#custom_summary_button:hover {
+    background-color: var(--SmartThemeLinkColor);
+    opacity: 0.9;
+}
+

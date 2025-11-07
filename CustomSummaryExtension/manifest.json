@@ -1,0 +1,16 @@
+{
+  "name": "CustomSummary",
+  "version": "1.0.0",
+  "description": "自定义总结扩展 - 允许用户自定义对话总结功能",
+  "author": "",
+  "icon": "icon.png",
+  "tags": [
+    "summary",
+    "custom",
+    "utility"
+  ],
+  "script": "script.js",
+  "styles": "styles.css",
+  "homepage": "",
+  "repository": ""
+}
